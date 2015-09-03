@@ -1,0 +1,29 @@
+body {
+	background: url("../images/red.png");
+	margin: 220px 0 0 0;
+	padding: 0;
+}
+#wrapper {
+	position: relative;
+	margin: 0 auto;
+	width: 860px;
+}
+#wrapper > .overlay {
+	width: 100%;
+	position: absolute;
+}
+#wrapper > .overlay > img {
+	position: absolute;
+}
+#wrapper > .overlay > img:nth-of-type(1) {
+	top: -150px;
+	left: -150px;
+}
+#wrapper > .overlay > img:nth-of-type(2) {
+	top: -20px;
+	right: -170px;
+}
+#wrapper > .overlay > img:nth-of-type(3) {
+	top: 410px;
+	left: -80px;
+}
