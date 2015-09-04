@@ -6,4 +6,5 @@ This webpage has been made entirely of HTML and CSS code. Its not an app, im jus
 I hope you like the page and take your time listening to the video.
 
 Video used in this web page is from the channel "emerald radiation": https://www.youtube.com/channel/UC18HEkrNGHca3pTvhQRtWlg
+
 Character images used are by: http://phantommarbles.deviantart.com/
