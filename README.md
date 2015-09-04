@@ -5,4 +5,5 @@ This webpage is using the same structure as the desudesu.co.uk one uses, but usi
 This webpage has been made entirely of HTML and CSS code. Its not an app, im just trolling.
 I hope you like the page and take your time listening to the video.
 
-I do not mean any offense to the owner of the video or the images i've used. If the authors of the context of this webpage require to be removed i will do so.
+Video used in this web page is from the channel "emerald radiation": https://www.youtube.com/channel/UC18HEkrNGHca3pTvhQRtWlg
+Character images used are by: http://phantommarbles.deviantart.com/
